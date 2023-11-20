@@ -19,3 +19,6 @@ and the dictionary will store words in the target language with an accompanying 
     Dictionary Sorting - in addition to an alphabetical sort, users will be able to sort based on category
   </li>
 </ul>
+
+# Author :woman_technologist:
+Jessica Vargas
