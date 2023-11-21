@@ -2,10 +2,7 @@
 Create a picture dictionary in Andriod Studio. 
 
 # Project Description :pencil:
-One tool that educators have to support the vocabulary development of language learners is a picture dictionary. 
-While a very useful tool, these static dictionaries often fall short in providing relevant information. My Picture Dictionary is
-a dynamic, personal picture dictionary where users can add words of interest. Simply search for words or phrases in any supported language 
-and the dictionary will store words in the target language with an accompanying image of their choice. 
+One tool that educators have to support the vocabulary development of language learners is a picture dictionary. While a very useful tool, these static dictionaries often fall short in providing relevant information. My Picture Dictionary is a dynamic, personal picture dictionary where users can add words of interest. Simply search for words or phrases in any supported language and the dictionary will store words in the target language with an accompanying image of their choice. 
 
 # Under Construction :construction: 
 <ul>
@@ -19,6 +16,9 @@ and the dictionary will store words in the target language with an accompanying 
     Dictionary Sorting - in addition to an alphabetical sort, users will be able to sort based on category
   </li>
 </ul>
+
+# Acknowledgements :pray: 
+Thank you to the Women Who Code organization for hosting the App Deploy 2023 Hackathon to which this was submitted. And thank you to my husband, children, and mother-in-law for understanding and giving me the time to work on this project. 
 
 # Author :woman_technologist:
 Jessica Vargas
