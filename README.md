@@ -1,5 +1,6 @@
 # My Picture Dictionary :book: <img src="https://github.com/javar10/My_Picture_Dictionary/assets/139159958/6452cfa5-b37c-45fc-bf33-6dc3ac898591" align="right" width="200">
 Create a picture dictionary in Andriod Studio. 
+
 [Project Video](https://github.com/javar10/My_Picture_Dictionary/blob/master/MyDictionaryApp_AddingWords.mp4)
 
 # Project Description :pencil:
